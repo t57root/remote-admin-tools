@@ -7,3 +7,9 @@ by t57root @ openwill.me
 Cookie-based communication. Most operation will leave a GET item in the access log.
 
 Continually posting to a same script is also a obvious suspicious activity.
+
+###Features:
+* cookie-based
+* ajax-based command execution interface
+* Fast file-edit in file manager
+
