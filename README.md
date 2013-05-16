@@ -1,1 +1,1 @@
-Some application layer backdoors.
+Some application layer remote admin tools.
